@@ -22,17 +22,6 @@ I'm an Android Developer passionate about building user-friendly, reliable and m
 - APIs: REST APIs, JSON
 - Other: Firebase
 
-📌 Featured Projects
-
-- Project 1 – Add project description and repository link.
-- Project 2 – Add project description and repository link.
-- Project 3 – Add project description and repository link.
-
-📫 Connect With Me
-
-- LinkedIn: "Your LinkedIn Profile" (YOUR_LINKEDIN_URL)
-- GitHub: "Your GitHub Profile" (YOUR_GITHUB_URL)
-
 ---
 
 ⭐ Thanks for visiting my profile!
